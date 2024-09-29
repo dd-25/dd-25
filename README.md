@@ -27,9 +27,14 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=amazon-dynamodb&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-Pygame-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/-AutoCAD-CA1D1D?style=flat-square&logo=autodesk&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" height="30">
 </p>
 
 ---
