@@ -55,4 +55,4 @@
 
 ---
 
-Feel free to reach out! I'm always open to **collaboration** and **new opportunities**.
+📌 **Always open to collaborations & new opportunities!**
